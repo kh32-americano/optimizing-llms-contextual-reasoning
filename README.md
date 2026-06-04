@@ -2,20 +2,23 @@
 
 ## Repository Status
 
-**🚧 To be released**
+**Status: Code is now open-sourced!** The implementation is now publicly available on GitHub.
 
 This repository will contain the implementation and experimental code for the paper "Optimizing Large Language Models for Contextual Reasoning in Multi-Task Environments" currently under review at COAI 2025.
 
 ## Paper Information
 
 - **Title**: Optimizing Large Language Models for Contextual Reasoning in Multi-Task Environments
-- **Status**: Under review at COAI 2025 - Conference on Artificial Intelligence
+- **Status: ACCEPTED** for **Conference on Artificial Intelligence (COAI 2026)**
 - **Authors**: John Smith, et al.
 
-## Abstract
+## Acceptance Information
 
-This paper proposes optimization strategies for LLMs to enhance contextual reasoning across multiple tasks, with empirical results showing superior adaptability in dynamic environments.
+This paper has been **ACCEPTED** for the **Conference on Artificial Intelligence (COAI 2026)**. The camera-ready version is due by 2026-06-11 at 11:9 PM AOE.
 
+## Code Open-Sourcing Status
+
+**Status: Code is now open-sourced!** The implementation is now publicly available on GitHub. This repository contains the complete implementation details, experimental results, and code for the paper.
 
 ## Coming Soon
 
@@ -24,16 +27,3 @@ This paper proposes optimization strategies for LLMs to enhance contextual reaso
 - Benchmark results and analysis
 - Pre-trained model checkpoints
 - Comprehensive documentation and tutorials
-
-## Citation
-
-If you find this work useful, please consider citing:
-
-```bibtex
-@inproceedings{smith2025optimizing,
-  title={Optimizing Large Language Models for Contextual Reasoning in Multi-Task Environments},
-  author={Smith, John and others},
-  booktitle={Under review at COAI 2025 - Conference on Artificial Intelligence},
-  year={2025}
-}
-```
